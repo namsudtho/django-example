@@ -1,1 +1,1 @@
-# python-django-example
+# jango-example
